@@ -3,10 +3,10 @@
 
 Aplicação android em linguagem Java desenvolvida para a disciplina de Ferramentas Computacionais IV
 
-# Objetivo:
+### Objetivo:
 Utilizando a API https://randomuser.me/, o aplicativo retorna de forma interativa os dados de um usuário qualquer, permitindo a aplicaçaõ de filtro de busca para gênero e anacionalidade.
 
-# Telas:
+### Telas:
 <div align="center">
   
   ![randomuser1](https://user-images.githubusercontent.com/63561594/140615624-c72fd20b-290d-456d-b470-56ddbf3d9dfe.png) 
